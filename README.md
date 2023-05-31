@@ -1,4 +1,4 @@
-# Formula 1
+# F1 Data Analysis
 
 *Présentation de mes travaux d'analyse des données de Formule 1 via Jupyter Notebook*
 
